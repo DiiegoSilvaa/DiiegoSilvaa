@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Diego Silva 
 
-<!--
-**DiiegoSilvaa/DiiegoSilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de Engenharia de Software focado no desenvolvimento de sistemas modulares, otimização de algoritmos e arquitetura web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stacks & Ferramentas
+
+- **Linguagens:** `C` | `C++` | `JavaScript` | `HTML5` | `CSS3`
+- **Modelagem & Dados:** `DBML` | Bancos de Dados Relacionais
+- **Ambiente & Workflow:** `Linux (Debian)` | `Git` | `GitHub` | `VS Code`
+
+---
+
+### Destaques & Projetos
+
+- **Arquitetura Web Semântica:** Plataformas responsivas estruturadas com CSS Grid/Flexbox e foco em acessibilidade.
+- **Algoritmos em C/C++:** Implementação de estruturas de dados (BFS), otimização de fluxo de entrada (`std::cin`) e criptografia.
+- **Modelagem de Dados:** Esquemas relacionais detalhados utilizando notação DBML.
+
+---
+
+### Conecte-se comigo
+
+- **LinkedIn:** [Diego Silva](https://www.linkedin.com/in/diego-silva-261968292/)
+- **GitHub:** [@DiiegoSilvaa](https://github.com/DiiegoSilvaa)
+
+---
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
